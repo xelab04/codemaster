@@ -7,8 +7,8 @@
 //	{
 //		header("Location: http://www.youtube.com");
 //	}
-
+	header("Location: https://xelab04.github.io/codemaster/index.html");
 //header("Location: ");
-  readfile("./index.html");
+//readfile("./index.html");
 	exit();
 ?>
